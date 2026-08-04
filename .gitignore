@@ -1,0 +1,10 @@
+*.ova
+*.vmdk
+*.qcow2
+*.iso
+*.pdf
+*.pcap
+vm/
+.claude/
+*.bin
+*__pycache__*
